@@ -13,4 +13,4 @@ template/pipelines.py
 template/settings.py
 template/useragent.py
 template/spiders/__init__.py
-template/spiders/templatepsider.py
+template/spiders/template.py
