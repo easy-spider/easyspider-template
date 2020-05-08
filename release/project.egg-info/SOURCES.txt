@@ -1,0 +1,16 @@
+README.md
+setup.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
+template/__init__.py
+template/custom_settings.py
+template/items.py
+template/middlewares.py
+template/pipelines.py
+template/settings.py
+template/useragent.py
+template/spiders/__init__.py
+template/spiders/templatepsider.py
