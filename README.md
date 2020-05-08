@@ -1,0 +1,2 @@
+# easyspider-template
+Spider template
